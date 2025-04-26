@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Welcome to Network Scanner"
-echo "scanning your network: 192.168.94.0/24"
+echo "scanning your network: 
 echo "started at: $(date)"
 echo "<====== SCANNING ======>"
 
